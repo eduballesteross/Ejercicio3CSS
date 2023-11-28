@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+
+  .cua{
+   /*cuadrado*/
+   width:200px;
+   height:200px;
+   margin:2rem;
+   background-color: green;
+   padding: 1rem black;
+   box-shadow: -3rem -3rem blue, -6rem -6rem red;
+   box-sizing: border-box;
+   
+   position: absolute;
+   top: 50%;
+   left: 50%;position: absolute;
+  
+
+}
